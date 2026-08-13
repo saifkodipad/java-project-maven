@@ -5,11 +5,11 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>in.reyaz</groupId>
+    <groupId>in.saif</groupId>
     <artifactId>NETFLIX</artifactId>
     <packaging>war</packaging>
     <version>1.2.2</version>
-    <name>Java Home myweb</name>
+    <name>Java Saif Home Web Great</name>
     <url>http://maven.apache.org</url>
 
     <properties>
