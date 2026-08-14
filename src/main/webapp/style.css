@@ -30,7 +30,7 @@ nav {
 }
 
 nav a img {
-  width: 100px;
+  width: 50px;
 }
 
 .form-wrapper {
@@ -55,7 +55,7 @@ nav a img {
 }
 
 form .form-control {
-  height: 25px;
+  height: 30px;
   position: relative;
   margin-top: 10px;
   padding-top: 5px;
@@ -82,7 +82,7 @@ form .form-control {
 
 .form-control label {
   position: absolute;
-  left: 15px;
+  left: 20px;
   top: 82%;
   transform: translateY(-50%);
   font-size: 1rem;
