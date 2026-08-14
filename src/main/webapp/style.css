@@ -25,12 +25,12 @@ body {
 
 nav {
   position: fixed;
-  padding: 25px 60px;
+  padding: 40px 40px;
   z-index: 1;
 }
 
 nav a img {
-  width: 167px;
+  width: 100px;
 }
 
 .form-wrapper {
