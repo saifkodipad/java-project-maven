@@ -5,11 +5,11 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>in.saif</groupId>
+    <groupId>in.safi</groupId>
     <artifactId>NETFLIX</artifactId>
     <packaging>war</packaging>
     <version>1.2.2</version>
-    <name>Java Saif Home Web Great</name>
+    <name>Java Safi Home Web Great</name>
     <url>http://maven.apache.org</url>
 
     <properties>
