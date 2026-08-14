@@ -25,12 +25,12 @@ body {
 
 nav {
   position: fixed;
-  padding: 40px 40px;
+  padding: 30px 40px;
   z-index: 1;
 }
 
 nav a img {
-  width: 50px;
+  width: 300px;
 }
 
 .form-wrapper {
@@ -51,11 +51,11 @@ nav a img {
 }
 
 .form-wrapper form {
-  margin: 25px 0 65px;
+  margin: 20px 0 65px;
 }
 
 form .form-control {
-  height: 30px;
+  height: 20px;
   position: relative;
   margin-top: 10px;
   padding-top: 5px;
@@ -71,7 +71,7 @@ form .form-control {
   border-radius: 4px;
   color: #fff;
   font-size: 1rem;
-  padding-top: 10px;
+  padding-top: 90px;
   padding: 5px 20px;
 }
 
